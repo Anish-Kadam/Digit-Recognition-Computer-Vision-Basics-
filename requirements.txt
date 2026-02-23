@@ -1,6 +1,7 @@
-streamlil>=1.30.0
+streamlit>=1.30.0
 tensorflow-cpu
 numpy
 pillow
 streamlit-drawable-canvas
 matplotlib
+
