@@ -4,4 +4,6 @@ numpy
 pillow
 streamlit-drawable-canvas
 matplotlib
+scipy
+
 
